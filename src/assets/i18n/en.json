@@ -1,0 +1,6 @@
+{
+	"Description": "This is a translation test using new tools",
+	"Intro": "Hello my name is {{ name }}, I am {{ age }} years old.",
+	"Phrase": "This is a non-profit organization that seeks to help children in Colombia to get involved in technology-based careers",
+	"Title": "Translation Example"
+}
